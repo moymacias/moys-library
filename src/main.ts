@@ -1,1 +1,3 @@
-console.log('Hello World')
+import Button from './Atoms/Button'
+
+export { Button }
