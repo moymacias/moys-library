@@ -8,8 +8,8 @@ export default defineConfig({
   build: {
     lib: {
       entry: resolve(__dirname, 'src/main.ts'),
-      name: 'pepsico-ds',
-      fileName: 'pepsico-ds',
+      name: 'moys-library',
+      fileName: 'moys-library',
     },
     rollupOptions: {
       external: ['react', 'react-dom'],

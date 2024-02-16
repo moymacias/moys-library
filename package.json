@@ -6,13 +6,13 @@
   "files": [
     "dist"
   ],
-  "main": "./dist/pepsico-ds.umd.cjs",
-  "module": "./dist/pepsico-ds.js",
+  "main": "./dist/moys-library.umd.cjs",
+  "module": "./dist/moys-library.js",
   "types": "./dist/main.d.ts",
   "exports": {
     ".": {
-      "import": "./dist/pepsico-ds.js",
-      "require": "./dist/pepsico-ds.umd.cjs",
+      "import": "./dist/moys-library.js",
+      "require": "./dist/moys-library.umd.cjs",
       "types": "./dist/main.d.ts"
     }
   },

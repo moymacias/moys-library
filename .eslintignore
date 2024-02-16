@@ -3,6 +3,6 @@ dist
 build
 *.test.js
 *.spec.js
+.*
 scripts
 vite.config.ts
-.*
